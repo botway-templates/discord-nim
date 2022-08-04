@@ -1,5 +1,5 @@
 import dimscord, asyncdispatch, strutils, options
-import botway
+import botnim
 
 let discord = newDiscordClient(GetToken())
 
