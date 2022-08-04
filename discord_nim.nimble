@@ -5,7 +5,7 @@ author        = "abdfnx"
 description   = "My Awesome Discord Nim Bot."
 license       = "MIT"
 srcDir        = "src"
-bin           = @["{{.BotName}}"]
+bin           = @["main"]
 
 # Dependencies
 
