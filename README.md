@@ -6,4 +6,4 @@
 
 - [**Nim**](https://nim-lang.org)
 - [**Dimscord**](https://github.com/krisppurg/dimscord)
-- [**Botnim**](https://github.com/botwayorg/discord-nim/blob/main/src/botnim.nim)
+- [**Botnim**](https://github.com/abdfnx/botway/blob/main/packages/botnim/main.nim)
