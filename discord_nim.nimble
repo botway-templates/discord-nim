@@ -1,7 +1,7 @@
 # Package
 
 version       = "0.1.0"
-author        = "abdfnx"
+author        = "{{.Author}}"
 description   = "My Awesome Discord Nim Bot."
 license       = "MIT"
 srcDir        = "src"
